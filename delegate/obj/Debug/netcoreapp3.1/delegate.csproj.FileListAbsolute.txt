@@ -1,0 +1,13 @@
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.csprojAssemblyReference.cache
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfoInputs.cache
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfo.cs
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.csproj.CoreCompileInputs.cache
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.exe
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.deps.json
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.json
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.dev.json
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.dll
+C:\Users\пека\source\MyNewLife\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.dll
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\пека\source\MyNewLife\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.genruntimeconfig.cache
